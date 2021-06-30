@@ -1,2 +1,7 @@
 # Arch Install Notes
-(asd)[https://wiki.archlinux.org/title/installation_guide]
+
+## Steps
+
+
+## Resources
+- [Wiki](https://wiki.archlinux.org/title/installation_guide)
